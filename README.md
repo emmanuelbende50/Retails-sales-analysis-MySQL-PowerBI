@@ -30,7 +30,6 @@ Dashboard Preview
 
 
 Download
-[Download Power BI File (.pbix)][(https://github.com/your-username/your-repo-name/raw/main/retail_sales_dashboard.pbix)
 ](https://github.com/emmanuelbende50/Retails-sales-analysis-MySQL-PowerBI/tree/main)
 
 Skills Demonstrated

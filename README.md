@@ -28,5 +28,5 @@ Dashboard Preview
 <img width="1182" height="679" alt="Screenshot 2025-07-18 114808" src="https://github.com/user-attachments/assets/165869a1-d72b-48a5-a593-e8a907aea26e" />
 
 Download
-(https://github.com/emmanuelbende50/Retails-sales-analysis-MySQL-PowerBI/tree/main)
+(theanalystima.github.io /Retails-sales-analysis-MySQL-PowerBI/tree/main)
 
